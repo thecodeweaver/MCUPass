@@ -1,2 +1,2 @@
 # MCUPass
- Create secure passwords using a microcontroller and some analog noise
+A hardware password generator using Arduino and PlatformIO
